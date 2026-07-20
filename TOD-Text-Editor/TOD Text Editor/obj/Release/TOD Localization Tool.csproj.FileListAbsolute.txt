@@ -1,0 +1,11 @@
+C:\Users\omerm\AppData\Local\Temp\opencode\TOD-Localization-Tool\TOD Localization Tool\bin\Release\TOD Localization Tool.exe.config
+C:\Users\omerm\AppData\Local\Temp\opencode\TOD-Localization-Tool\TOD Localization Tool\bin\Release\TOD Localization Tool.exe
+C:\Users\omerm\AppData\Local\Temp\opencode\TOD-Localization-Tool\TOD Localization Tool\bin\Release\TOD Localization Tool.pdb
+C:\Users\omerm\AppData\Local\Temp\opencode\TOD-Localization-Tool\TOD Localization Tool\obj\Release\TOD Localization Tool.csproj.AssemblyReference.cache
+C:\Users\omerm\AppData\Local\Temp\opencode\TOD-Localization-Tool\TOD Localization Tool\obj\Release\TOD_Localization_Tool.FrmMain.resources
+C:\Users\omerm\AppData\Local\Temp\opencode\TOD-Localization-Tool\TOD Localization Tool\obj\Release\TOD Localization Tool.csproj.GenerateResource.cache
+C:\Users\omerm\AppData\Local\Temp\opencode\TOD-Localization-Tool\TOD Localization Tool\obj\Release\TOD Localization Tool.csproj.CoreCompileInputs.cache
+C:\Users\omerm\AppData\Local\Temp\opencode\TOD-Localization-Tool\TOD Localization Tool\obj\Release\TOD Localization Tool.exe
+C:\Users\omerm\AppData\Local\Temp\opencode\TOD-Localization-Tool\TOD Localization Tool\obj\Release\TOD Localization Tool.pdb
+C:\Users\omerm\AppData\Local\Temp\opencode\TOD-Localization-Tool\TOD Localization Tool\obj\Release\TOD Localization Tool.exe.config
+C:\Users\omerm\AppData\Local\Temp\opencode\TOD-Localization-Tool\TOD Localization Tool\obj\Release\TOD Localization Tool.csprojResolveAssemblyReference.cache
